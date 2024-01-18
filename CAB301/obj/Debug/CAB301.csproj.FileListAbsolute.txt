@@ -1,0 +1,14 @@
+C:\Users\littl\source\repos\CAB301\CAB301\bin\Debug\CAB301.exe.config
+C:\Users\littl\source\repos\CAB301\CAB301\bin\Debug\CAB301.exe
+C:\Users\littl\source\repos\CAB301\CAB301\bin\Debug\CAB301.pdb
+C:\Users\littl\source\repos\CAB301\CAB301\obj\Debug\CAB301.csprojAssemblyReference.cache
+C:\Users\littl\source\repos\CAB301\CAB301\obj\Debug\CAB301.csproj.CoreCompileInputs.cache
+C:\Users\littl\source\repos\CAB301\CAB301\obj\Debug\CAB301.exe
+C:\Users\littl\source\repos\CAB301\CAB301\obj\Debug\CAB301.pdb
+C:\Users\littl\Desktop\CAB301\CAB301\bin\Debug\CAB301.exe.config
+C:\Users\littl\Desktop\CAB301\CAB301\bin\Debug\CAB301.exe
+C:\Users\littl\Desktop\CAB301\CAB301\bin\Debug\CAB301.pdb
+C:\Users\littl\Desktop\CAB301\CAB301\obj\Debug\CAB301.csprojAssemblyReference.cache
+C:\Users\littl\Desktop\CAB301\CAB301\obj\Debug\CAB301.csproj.CoreCompileInputs.cache
+C:\Users\littl\Desktop\CAB301\CAB301\obj\Debug\CAB301.exe
+C:\Users\littl\Desktop\CAB301\CAB301\obj\Debug\CAB301.pdb
